@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=A fresh breeze of air
+Name=Oxygen kde 4
+X-KDE-PluginInfo-Author=Martin Fritz
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=Fritz.Martin99@web.de
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPL 2.1+
+X-KDE-PluginInfo-Name=org.kdeclassic.oxygen4
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=github.com/MartinF99/kde4-oxy-look-and-feel
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+XKPackage-Dependencies=kns://plasma-themes.knsrc/api.kde-look.org/1310877/
