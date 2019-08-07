@@ -1,4 +1,4 @@
-# kde4-oxy-ari-look-and-feel
+# kde4-oxy-air-look-and-feel
 KDE 4 Oxygen with air theme
 
 install with 
